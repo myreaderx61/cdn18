@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<!-- 
+ _________  _______   ____    ____  
+|  _   _  ||_   __ \ |_   \  /   _| 
+|_/ | | \_|  | |__) |  |   \/   |   
+    | |      |  ___/   | |\  /| |   
+   _| |_    _| |_     _| |_\/_| |_  
+  |_____|  |_____|   |_____||_____|
+  T A L K I N G P O I N T S M E M O                               
+ -->
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <link rel="profile" href="http://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Language" content="en">
+  <link rel="alternate" type="application/rss+xml" name="Full RSS Feed" href="http://talkingpointsmemo.com/feed/all">
+  <link rel="alternate" type="application/rss+xml" name="Edblog RSS Feed" href="http://talkingpointsmemo.com/feed/edblog">
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-zrnmn8R8KkWl12rAZFt4yKjxplaDaT7/EUkKm7AovijfrQItFWR7O/JJn4DAa/gx" crossorigin="anonymous">
+  <script>
+    // set global device vars for HTL's prebidder
+        var is_desktop = true;
+    
+        var is_logged_out = true;
+    
+        var is_basic = false;
+    
+        var is_prime = false;
+    
+        var is_adfree = false;
+    
+        var is_inside = false;
+      </script>
+  <title>Category: Cafe | Talking Points Memo</title>
+
+<link rel="canonical" href="https://talkingpointsmemo.com/cafe" />
+<link rel="next" href="https://talkingpointsmemo.com/cafe/page/2" />
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='https://cdn.talkingpointsmemo.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='tpm-style-css'  href='https://cdn.talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i%7CRoboto%3A300%2C400%2C400i%2C700%2C700i%2C900%7COswald%3A700%2C700i%2C400%2C400i%2C300%2C300i&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='tpm-skin-css'  href='https://cdn.talkingpointsmemo.com/wp-content/themes/talkingpointsmemo//assets/stylesheets/2018-skin.css?ver=60a12591e097361c847f35f4b45b797e' type='text/css' media='all' />
+
+<script type='text/javascript' src='https://cdn.talkingpointsmemo.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type=x-settings data-module="ad-controller" data-config="{&quot;targeting&quot;:{&quot;section&quot;:&quot;cafe&quot;,&quot;index&quot;:[&quot;true&quot;],&quot;membership&quot;:[&quot;anonymous&quot;]},&quot;account_id&quot;:&quot;\/1025406\/&quot;}" ></script>
+<link rel='https://api.w.org/' href='https://talkingpointsmemo.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://talkingpointsmemo.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.talkingpointsmemo.com/wp-includes/wlwmanifest.xml" /> 
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+  <script type="text/javascript">
+    var current_post_id = 1330225;
+    var pivot_id = "299251";
+    var current_post_type = "post";
+    var is_mobile = false;
+    var category = "cafe";
+    var googletag = googletag || {};
+    var login_url = "https:\/\/talkingpointsmemo.com\/signin";
+    var SiteSettings = {"cdn_url":"\/\/cdn.talkingpointsmemo.com"};
+    googletag.cmd = googletag.cmd || [];
+  </script>
+<script type="text/javascript">
+// google analytics
+  var _gaq_catName = '';
+  var _gaq_tags = '';
+  var _gaq_userType = 'Anonymous';
+  if (window.is_basic) { _gaq_userType = 'Basic';}
+  if (window.is_prime) { _gaq_userType = 'Prime';}
+  if (window.is_adfree) { _gaq_userType = 'Adfree';}
+  if (window.is_inside) { _gaq_userType = 'Inside';}
+
+  var _gaq = _gaq || [];
+  (function() {
+      _gaq.push(["_setAccount", "UA-927537-1"]);
+      _gaq.push(["_setDomainName", ".talkingpointsmemo.com"]);
+      _gaq.push(["_setAllowHash", false]);
+      _gaq.push(["_trackPageview"]);
+      _gaq.push(["_trackEvent", "Units", "Skyboxes", "pageview"]);
+      // custom variable for user type https://developers.google.com/analytics/devguides/collection/gajs/gaTrackingCustomVariables
+      _gaq.push(['_setCustomVar',
+        1,             // This custom var is set to slot #1.  Required parameter.
+        'User Type',   // The name of the custom variable.  Required parameter.
+        _gaq_userType,      // Sets the value of "User Type" to "Member" or "Visitor" depending on status.  Required parameter.
+         2             // Sets the scope to session-level.  Optional parameter.
+      ]);
+
+      // custom variable for post category
+      if (_gaq_catName) {
+        _gaq.push(['_setCustomVar',
+          2,             // This custom var is set to slot #2.  Required parameter.
+          'Category',   // The name of the custom variable.  Required parameter.
+          _gaq_catName,      // Sets the value of "User Type" to the post category.  Required parameter.
+           3             // Sets the scope to session-level.  Optional parameter.
+        ]);
+      }
+
+      // custom variable for post tags
+      if (_gaq_tags) {
+        _gaq.push(['_setCustomVar',
+          2,             // This custom var is set to slot #3.  Required parameter.
+          'Tags',       // The name of the custom variable.  Required parameter.
+          _gaq_tags,      // Sets the value of "User Type" to the post category.  Required parameter.
+           3             // Sets the scope to session-level.  Optional parameter.
+        ]);
+      }
+
+      var b = document.createElement("script"),
+          a = document.getElementsByTagName("script")[0];
+      b.type = "text/javascript";
+      b.async = true;
+      b.src = ("https:" === document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+      a.parentNode.insertBefore(b, a)
+  }());
+</script>
+<script type="text/javascript">
+  // chartbeat
+  var _sf_startpt=(new Date()).getTime();
+  var _sf_async_config = {};
+</script>
+<script type="text/javascript">
+  //nielson
+  // removed by jacob 07-16-19
+  // (function() {
+  // var d;
+  // d = new Image(1, 1);
+  // d.onerror = d.onload = function() {
+  // return d.onerror = d.onload = null;
+  // };
+  // d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-805825h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  // }).call(this);
+</script>
+
+<!-- BEGIN Typekit Fonts for WordPress -->
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'fwj1wkm',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<!-- END Typekit Fonts for WordPress -->
+
+		<style type="text/css" id="wp-custom-css">
+			.AuthorAndDate__Date {
+	min-width: 40%;
+}
+
+.Plugs__Button {
+	align-items: center !important;
+}
+.Archive__Content .more-link {
+	display: inline-block !important;
+}
+
+.StorySlot__Excerpt ul li a, .StorySlot__Excerpt ol li a {
+	border-bottom: 0 none !important;
+	text-decoration: underline !important;
+	text-decoration-color: #990000 !important;
+}
+
+/* just leave this here  */
+
+.postid-1250754 .Article__Content p b, .postid-1250754 .Article__Content p strong {
+	  font-family: 'Oswald', 'Roboto', sans-serif;
+    padding-top: 8px;
+    display: inline-block;
+}
+
+.category-cafe .ArticleFooter__AuthorInFooter {
+	display: none !important;
+}
+
+
+/* not added to stylesheets yet*/
+.device-mobile .PodcastSubscribe > span {
+    display: none;
+}
+
+.Article__SidebarSticky a{
+	color: #333333;
+    border-bottom: 1px solid #990000;
+}
+
+.Article__Sidebar .ArticleImage > img {
+	min-height:unset !important;
+}
+
+.device-tablet .Article__ContentCollapseToggle, .device-mobile .Article__ContentCollapseToggle{
+	z-index:9 !important
+}
+
+@media (max-width: 768px){
+	.StorySlot.\--subfeature {
+		padding-top: 0;
+	}
+}
+
+
+/* these rules re-order the fullHuge story slot on mobile to be hed->subhed->img->excerpt */
+.device-mobile .StorySlot.\--fullHuge.\--fullHuge-narrow > div {
+    display: flex;
+    flex-direction: column;
+}
+
+.device-mobile .StorySlot.\--fullHuge.\--fullHuge-narrow .StorySlot__Excerpt {
+    order: 3;
+    margin-top: 16px;
+}
+
+.device-mobile .StorySlot.\--fullHuge.\--fullHuge-narrow .StorySlot__Excerpt .caption {
+	margin-bottom: 0 !important;
+}
+
+.single-live-blog .Article__Precontent .AuthorAndDate__Separator,
+.single-live-blog .Article__Precontent .AuthorAndDate__Byline{
+	display: none!important;
+}
+
+body:not(.baroque-enabled) .SmallBar .row-9>div:nth-child(4) {
+	display: none!important;
+}
+
+/* prevents horizontal overscroll on ios safari. This is a hack, idk why the overscroll happens in the first place */
+@media(max-width: 400px) {
+	iframe#discourse-embed-frame {
+		width: 345px!important;
+		max-width: 100% !important;
+	}
+}
+
+
+.device-mobile .Primary {
+  overflow-x: hidden;
+}		</style>
+	</head>
+
+<body class="archive category category-cafe category-39167 device-desktop group-blog hfeed">
+  <script>    if ( !('fetch' in window && 'assign' in Object) ) {
+      var scriptElement = document.createElement('script');
+
+      scriptElement.async = false;
+      scriptElement.src = "https://cdn.talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/pkg/polyfills.cd98d.js";
+      document.head.appendChild(scriptElement);
+    }</script><div id="fb-root"></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : "101800829865996",
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+   
+    window.fbAsyncInit.__didInit = true;
+  };
+ 
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="BannerAd --preheader js_preheader-ad-container ">
+  <script type=x-placeholder data-widget="AdSlot" data-props="{&quot;eager&quot;:true,&quot;noRefresh&quot;:true,&quot;adFreeLink&quot;:false,&quot;id&quot;:&quot;tpm_preheader&quot;,&quot;sizes&quot;:[[728,90],[970,90],[970,250],[970,300],[0]],&quot;unit&quot;:&quot;TPM_preHeader&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]}" ></script></div>
+    <div id="page" class="site">
+                  <header id="masthead" class="js_site-header SiteHeader" role="banner">
+        <script type=x-placeholder data-widget=Notifications ></script>
+          <div class="TrayMenu dropdown dropdown-sitenav --sitenav" id="trayWrapper">
+  <div class="TrayMenu__Inner">
+    <div class="TrayMenu__Header">
+      <div class="TrayMenu__Close dropdown-control" data-target="dropdown-sitenav" data-action="click">
+        <i class="fal fa-times"></i>
+      </div>
+      <div class="TrayMenu__SearchForm">
+        <form action="/search" id="cse-search-box" method="get">
+          <input type="text" class="search-query" id="search" name="s" placeholder="Search TPM" style="font-family:roboto; font-style: italic;">
+          <button><i class="fal fa-search" alt="Submit Search"></i></button>
+        </form>
+      </div>
+    </div>
+    <nav class="TrayMenu__Nav">
+      <ul>
+        <li><a href="https://talkingpointsmemo.com/edblog">
+          Editors' Blog
+          <span class="slash"> / </span>
+          <span class="tagline">Analysis &amp; Opinion</span>
+        </a></li>
+        <li><a href="https://talkingpointsmemo.com/news">News</a></li>
+        <li><a href="https://talkingpointsmemo.com/live-blog">Live Blog</a></li>
+        <li><a href="https://talkingpointsmemo.com/cafe">
+          Cafe
+          <span class="slash"> / </span>
+          <span class="tagline">outside voices &amp; analysis</span>
+        </a></li>
+        <li><a href="https://talkingpointsmemo.com/muckraker">
+          Muckraker
+          <span class="slash"> / </span>
+          <span class="tagline">scandal &amp; investigations</span>
+        </a></li>
+        <li><a href="https://talkingpointsmemo.com/podcast-series/the-josh-marshall-podcast/">Podcast</a></li>
+        <li><a href="https://talkingpointsmemo.com/prime">
+          Prime
+          <span class="slash"> / </span>
+          <span class="tagline">Member Exclusives</span>
+          <img class="NavMore__PrimeBadge" src="https://cdn.talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/images/logo/TPMRedes_PrimeLogo_Red.svg" alt="Prime Only">
+        </a></li>
+        <li><a href="https://talkingpointsmemo.com/feature">Feature Series</a></li>
+        <li><a href="https://talkingpointsmemo.com/covid-19-community">COVID-19</a></li>
+      </ul>
+    </nav> <!-- TrayMenu__Nav -->
+    <div class="TrayMenu__Buy">
+      <a class="TrayMenu__BuyLink" href="https://talkingpointsmemo.com/memberships?utm_source=on_site&utm_medium=menu_button&utm_campaign=on_site_membership_links">
+        <div class="left">
+          <span class="large-text">Memberships</span>
+        </div>
+        <div class="right">
+          <span class="small-text">View Options</span>
+          <i class="far fa-long-arrow-right"></i>
+        </div>
+      </a>
+      <a class="TrayMenu__BuyLink" href="https://talkingpointsmemo.com/contribute?utm_source=on_site&utm_medium=menu_button&utm_campaign=on_site_contribution_links">
+        <div class="left">
+          <span class="large-text">Contribute</span>
+        </div>
+        <div class="right">
+          <span class="small-text">Learn More</span>
+          <i class="far fa-long-arrow-right"></i>
+        </div>
+      </a>
+      <a class="TrayMenu__BuyLink" href="https://store.talkingpointsmemo.com/">
+        <div class="left">
+          <span class="large-text">Get TPM Merch</span>
+          <i class="far fa-tshirt"></i>
+        </div>
+        <div class="right">
+          <span class="small-text">Shop Now</span>
+          <i class="far fa-long-arrow-right"></i>
+        </div>
+      </a>
+    </div>
+    <div class="TrayMenu__Social">
+      <div class="TrayMenu__Follow">Follow TPM</div>
+      <a href="https://twitter.com/tpm" title="twitter" class="TrayMenu__SocialLink"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+      <a href="https://facebook.com/talkingpointsmemo" title="facebook" class="TrayMenu__SocialLink"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+      <a href="https://www.instagram.com/talkingpointsmemo/" title="instagram" class="TrayMenu__SocialLink"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+    </div>
+    <div class="TrayMenu__SendTips">
+      <a href="mailto:talk@talkingpointsmemo.com">Send Comments and Tips</a>
+    </div>
+    <div class="TrayMenu__Etc">
+      <ul>
+        <li><a href="/about">about</a></li>
+        <li><a href="/contact">contact</a></li>
+        <li><a href="/careers">careers</a></li>
+        <li><a href="/faq">FAQ</a></li>
+        <li><a href="/terms-of-use">terms of use</a></li>
+        <li><a href="http://status.talkingpointsmemo.com" target="_blank">site status</a></li>
+      </ul>
+    </div>
+    <div class="TrayMenu__Copyright">
+      &copy; 2020 TPM MEDIA LLC. ALL RIGHTS RESERVED.
+    </div>
+  </div> <!-- Inner -->
+</div><!-- TrayMenu -->        <div class="SiteHeader__Inner">
+          <div class="SiteHeader__Left">
+            <div class="SiteHeader__Hamburger dropdown-control" data-target="dropdown-sitenav" data-action="click">
+              <i class="far fa-bars"></i>
+            </div>
+            <div class="SiteHeader__Logo">
+              <a href="https://talkingpointsmemo.com/" rel="home" class="--span-12"><img src="https://cdn.talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/images/tpm-sq.svg" alt="Talking Points Memo Logo"/></a>
+            </div>
+          </div>
+                      <div class="SiteHeader__Middle --nav">
+              <nav class="SiteHeader__Nav">
+  <ul class="main-nav">
+    <li><a href="https://talkingpointsmemo.com/edblog">
+      <span>EDITORS' BLOG</span>
+    </a></li>
+    <li><a href="https://talkingpointsmemo.com/news">
+      <span>NEWS</span>
+    </a></li>
+    <li><a href="https://talkingpointsmemo.com/muckraker">
+      <span>MUCKRAKER</span>
+    </a></li>
+    <li><a href="https://talkingpointsmemo.com/cafe">
+      <span>CAFE</span>
+    </a></li>
+    <li><a href="https://talkingpointsmemo.com/podcast-series/the-josh-marshall-podcast/">
+      <span>PODCAST</span>
+    </a></li>
+    <li><a href="https://talkingpointsmemo.com/covid-19-community">
+      <span>COVID-19</span>
+    </a></li>
+  </ul>
+  <a class="SiteHeader__CommentsAndTips" href="mailto:talk@talkingpointsmemo.com"><span>SEND COMMENTS AND TIPS</span></a>
+</nav>            </div>
+                    
+          <div class="SiteHeader__Right">
+                          <a class="SiteHeader__Contribute Button --red-empty" href="https://talkingpointsmemo.com/contribute?utm_source=on_site&utm_medium=header_button&utm_campaign=on_site_contribution_links">CONTRIBUTE</a>
+                        <script type=x-placeholder data-widget="HeaderAccount" data-props="{&quot;mode&quot;:&quot;desktop&quot;}" ></script>          </div> <!-- SiteHeader__Right -->
+        </div>
+      </header>
+      
+<script>
+  var htlbid_layout = "catarchive-desktop";
+</script>
+
+<div class="Primary" id="primary">
+  <div class="BannerAd --postheader">
+  <script type=x-placeholder data-widget="AdSlot" data-props="{&quot;eager&quot;:true,&quot;id&quot;:&quot;tpm_precontent&quot;,&quot;sizes&quot;:[[728,90],[970,90]],&quot;unit&quot;:&quot;TPM_preContent&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]}" ></script></div>
+  <div class="Archive">
+        <div class="container">
+    	    	<div class="row">
+        <div class="--span-8 ">
+          <div class="Archive__Title">
+            <h1>
+              Cafe              : Opinion            </h1>
+                      </div>
+                  </div>
+    		<div class="--span-8 js_sticky-bounds">
+          <div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/athletes-racial-justice-protest-history-wasnt-first-wildcat-strike-pro-sports" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/GettyImages-515585798-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/GettyImages-515585798-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/GettyImages-515585798-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/GettyImages-515585798-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/athletes-racial-justice-protest-history-wasnt-first-wildcat-strike-pro-sports" class="Archive__PostTitle">Athletes’ Racial Justice Protest Last Week Made History. But It Wasn’t the First Wildcat Strike in Pro Sports        </a>
+    <div class="Archive__Subhead">
+      Pro athletes have gone on strike before over wages, pensions and working conditions, but these protests are about racial justice. It is no accident that Black players, who have talked about their own experiences being racial profiled by police officers, took the lead in organizing the walkouts.    </div>
+    <div class="Archive__Byline">
+        By Peter Dreier | September 3, 2020 3:05 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/russia-chaos-got-what-wanted-trump-administration" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1152460453-1-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="OSAKA, JAPAN - JUNE,28 (RUSSIA OUT) U.S. President Donald Trump (R) and Russian President Vladimir Putin (L) attend their bilateral meeting at the G20 Osaka Summit 2019, in Osaka, Japan, June,28,2019. Vladimir Putin has arrived to Japan to partcipate the G20 Osaka Summit and to meet U.S.President Donald Trump.  Photo by Mikhail Svetlov/Getty Images" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1152460453-1-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1152460453-1-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1152460453-1-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/russia-chaos-got-what-wanted-trump-administration" class="Archive__PostTitle">Russia Got What It Wanted        </a>
+    <div class="Archive__Subhead">
+      Fifty shades of chaos is now the paint on America’s portrait, spread by the hands of Putin and Trump, no matter what any investigation may find.    </div>
+    <div class="Archive__Byline">
+        By Jonathan Russo | August 28, 2020 2:00 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/the-incredibly-short-rise-and-fall-of-a-black-republican" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/squire-on-regan-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/squire-on-regan-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/squire-on-regan-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/squire-on-regan-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/the-incredibly-short-rise-and-fall-of-a-black-republican" class="Archive__PostTitle">The Incredibly Short Rise And Fall Of A Black Republican        </a>
+    <div class="Archive__Subhead">
+      The Republican Party of the 1980s had an appeal, at first.    </div>
+    <div class="Archive__Byline">
+        By Aurin Squire | August 28, 2020 9:13 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/gop-lobbying-corporate-groups-covid-senate-republicans-bill" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-935607466-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="on March 21, 2018 in Washington, DC." srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-935607466-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-935607466-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-935607466-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/gop-lobbying-corporate-groups-covid-senate-republicans-bill" class="Archive__PostTitle">The GOP Remains Loyal To Corporations And Lobbying Groups Over Americans. COVID Hasn’t Changed That.         </a>
+    <div class="Archive__Subhead">
+      Trade associations sound innocuous but the term obscures what they really are: lobbying groups that advocate for policies that benefit specific business interests. Among the groups that could potentially qualify for loans under Collins’ and Rubio’s bill are PhRMA, the nation’s top drug lobby, and the American Chemistry Council, which represents big chemical and fossil fuel interests.    </div>
+    <div class="Archive__Byline">
+        By Adam Eichen | August 19, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/a-journey-through-donald-trumps-small-dollar-fundraising-drive-in-ten-easy-steps" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1145317708-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1145317708-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1145317708-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1145317708-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/a-journey-through-donald-trumps-small-dollar-fundraising-drive-in-ten-easy-steps" class="Archive__PostTitle">A Journey Through Donald Trump&#8217;s Small-Dollar Fundraising Drive, In Ten Easy Steps        </a>
+    <div class="Archive__Subhead">
+          </div>
+    <div class="Archive__Byline">
+        By Jamie Lincoln Kitman | August 18, 2020 3:15 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/never-trump-gop-support-democracy-reform-cleanse-party-gone" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1264358094-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1264358094-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1264358094-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1264358094-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/never-trump-gop-support-democracy-reform-cleanse-party-gone" class="Archive__PostTitle">Never-Trump GOPers Must Support Democracy Reform To Cleanse Party When He’s Gone        </a>
+    <div class="Archive__Subhead">
+      The warning signs that Trump is willing to steal the election -- the sabotage of the postal service, the fight against mail-in ballots -- are unmistakable. After the election, never-Trump activists should turn their fire on the Republicans who enabled Trump, and de-legitimize their influence on the political process.    </div>
+    <div class="Archive__Byline">
+        By Carter Dougherty | August 10, 2020 4:09 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/racist-rhetoric-opposing-dc-statehood-keeps-federal-government-dysfunctional" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1225248703-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="UNITED STATES - JULY 1: From left, Sens. Steve Daines, R-Mont., Tom Cotton, R-Ark., and Lindsey Graham, R-S.C., conduct a news conference to voice their opposition to D.C. statehood in Capitol on Wednesday, July 1, 2020. (Photo By Tom Williams/CQ Roll Call)" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1225248703-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1225248703-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1225248703-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/racist-rhetoric-opposing-dc-statehood-keeps-federal-government-dysfunctional" class="Archive__PostTitle">The Same Racist Rhetoric Used To Oppose D.C. Statehood Keeps The Federal Government Dysfunctional         </a>
+    <div class="Archive__Subhead">
+      The venom behind Cotton’s assertion that, “Washington is a city, with all the characteristics of a city, not a state” is a continuation of anti-urban policies that demonize Black and Brown communities as undeserving of federal dollars.    </div>
+    <div class="Archive__Byline">
+        By Mariama Sojourner Eversley | August 10, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/how-america-contact-tracing-right" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1212177719-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1212177719-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1212177719-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1212177719-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/how-america-contact-tracing-right" class="Archive__PostTitle">How America Can Get Coronavirus Contact Tracing Right        </a>
+    <div class="Archive__Subhead">
+      Decades of research shows that the provision of public goods and services like contact tracing should be done by public employees. States and localities can reassign employees or directly hire new staff.    </div>
+    <div class="Archive__Byline">
+        By Jeremy Mohler and Margaret Cook | August 7, 2020 3:53 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/trumps-racist-appeal-to-the-suburbs-is-backfiring" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/trumps-suburban-dream-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/trumps-suburban-dream-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/trumps-suburban-dream-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/trumps-suburban-dream-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/trumps-racist-appeal-to-the-suburbs-is-backfiring" class="Archive__PostTitle">Trump&#8217;s Racist Appeal To The Suburbs Is Backfiring        </a>
+    <div class="Archive__Subhead">
+      Trump is trying, and failing, to build a new wall — between cities and their suburbs.    </div>
+    <div class="Archive__Byline">
+        By Peter Dreier | August 6, 2020 4:55 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/cafe-tpm-staff-reading-recommendations-bookshop-dystopian" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1093631138-2-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1093631138-2-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1093631138-2-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1093631138-2-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/cafe-tpm-staff-reading-recommendations-bookshop-dystopian" class="Archive__PostTitle">I&#8217;d Like To Wake Up Now, Please? TPM&#8217;s Dystopian Reading Recs        </a>
+    <div class="Archive__Subhead">
+          </div>
+    <div class="Archive__Byline">
+        By <a href="/profile/jackiewilhelm" title="Posts by Jackie Wilhelm" class="author url fn" rel="author">Jackie Wilhelm</a> | August 6, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/maines-ranked-choice-voting-spell-doom-collins-tough-reelection" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1227721983-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="WASHINGTON, DC - JULY 21: Chairwoman Senator Susan Collins (R-ME) speaks during a Senate Special Committee of Aging hearing on “The COVID-19 Pandemic and Seniors: A Look at Racial Health Disparities” at the US Capitol on July 21, 2020 in Washington, DC. The committee is looking into the data that has been showing that communities of color have been disproportionately negatively affected by the spread of the coronavirus when compared to the caucasian population in the United States. (Photo by Samuel Corum/Getty Images) *** Local Caption *** Susan Collins" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1227721983-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1227721983-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1227721983-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/maines-ranked-choice-voting-spell-doom-collins-tough-reelection" class="Archive__PostTitle">Why Maine’s Ranked Choice Voting System Could Spell Doom For Susan Collins’ Already-Tough Reelection Bid        </a>
+    <div class="Archive__Subhead">
+      Susan Collins’ ability to win under these rules is affected by her standing in the state, the configuration of the slate of candidates, and a pattern of partisan polarization toward ranked choice in Maine.     </div>
+    <div class="Archive__Byline">
+        By Amy Fried | August 5, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/the-army-should-rename-texas-fort-hood-for-baseball-pioneer-jackie-robinson" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1177267496-1-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1177267496-1-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1177267496-1-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/08/GettyImages-1177267496-1-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/the-army-should-rename-texas-fort-hood-for-baseball-pioneer-jackie-robinson" class="Archive__PostTitle">The Army Should Rename Texas’ Fort Hood For Baseball Pioneer Jackie Robinson        </a>
+    <div class="Archive__Subhead">
+      Robinson served at Fort Hood from April to November in 1944.    </div>
+    <div class="Archive__Byline">
+        By Peter Dreier and Richard Zamoff | August 4, 2020 3:54 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/wednesday-hearing-house-judiciary-test-big-tech-algorithm-ex-regulator-hire-revolving-door" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1227678555-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1227678555-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1227678555-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1227678555-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/wednesday-hearing-house-judiciary-test-big-tech-algorithm-ex-regulator-hire-revolving-door" class="Archive__PostTitle">Today’s Congressional Hearing Will Test Big Tech’s Simplest Algorithm: If An Ex-Regulator, Then Hire        </a>
+    <div class="Archive__Subhead">
+      The tech companies set to testify before the House today knew for years that a reckoning was in the works. They’ve been building up their defenses, and a key component of that defense is the antitrust enforcement officials who take a trip through the revolving door to the benefit of corporate clients.     </div>
+    <div class="Archive__Byline">
+        By Andrea Beaty | July 29, 2020 9:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/unlikely-winner-trump-tax-scotus-cases-summer-zervos" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-886434548-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-886434548-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-886434548-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-886434548-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/unlikely-winner-trump-tax-scotus-cases-summer-zervos" class="Archive__PostTitle">The Unlikely Winner In The SCOTUS Trump Tax Cases: Summer Zervos        </a>
+    <div class="Archive__Subhead">
+      The Zervos case could be important in an election year because it could shed light on Trump’s mistreatment and alleged sexual assault of women for female voters who make up a key voting bloc.     </div>
+    <div class="Archive__Byline">
+        By Ciara Torres-Spelliscy | July 28, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/bill-barr-questions-one-year-later" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1257651756-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1257651756-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1257651756-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1257651756-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/bill-barr-questions-one-year-later" class="Archive__PostTitle">Why I Still Have Questions For Bill Barr, One Year After Our Last Conversation        </a>
+    <div class="Archive__Subhead">
+      It’s been a turbulent thirteen months since I interviewed Barr — both for America and for how justice is carried out in it. As I have observed his work in the Trump administration, I have come to perceive his commitment to presidential authority as relativistic and inextricably entwined with his own subjective “sense of justice.”    </div>
+    <div class="Archive__Byline">
+        By Kary Antholis | July 24, 2020 2:52 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/hunting-hillary-excerpt-michael-dantonio-saint-hillary" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-543911628-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-543911628-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-543911628-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-543911628-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/hunting-hillary-excerpt-michael-dantonio-saint-hillary" class="Archive__PostTitle">The Making of &#8216;Saint Hillary&#8217;: Exploring The Media’s Early Role In Defining The First Lady         </a>
+    <div class="Archive__Subhead">
+      Insecure as they were, the hyper-partisans who targeted the Clintons found she could be demonized in a way that hurt him indirectly and, given her own political potential, degraded her future prospects.    </div>
+    <div class="Archive__Byline">
+        By Michael D'Antonio | July 23, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/what-protests-accomplish-five-global-lessons" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1225042732-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1225042732-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1225042732-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1225042732-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/what-protests-accomplish-five-global-lessons" class="Archive__PostTitle">What Do Protests Accomplish? 5 Global Lessons From Demonstrations Over Floyd&#8217;s Murder        </a>
+    <div class="Archive__Subhead">
+      From #BlackLivesMatter to #MeToo, international affairs taught this sexual health educator and ex-State Department staffer an important lesson. To achieve racial justice, we must think globally — creating and sustaining a secure world in the U.S. and beyond.     </div>
+    <div class="Archive__Byline">
+        By Twanna A. Hines | July 7, 2020 3:01 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/tpm-staff-montly-reading-recommendations-july-beach-reads-without-sand-surf" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/quarantine-beach-reads-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/quarantine-beach-reads-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/quarantine-beach-reads-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/quarantine-beach-reads-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/tpm-staff-montly-reading-recommendations-july-beach-reads-without-sand-surf" class="Archive__PostTitle">Beach Reads, But At Home&#8230; Without The Sand And Surf: TPM’s July Reading Recs        </a>
+    <div class="Archive__Subhead">
+          </div>
+    <div class="Archive__Byline">
+        By <a href="/profile/jackiewilhelm" title="Posts by Jackie Wilhelm" class="author url fn" rel="author">Jackie Wilhelm</a> | July 6, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/biden-debate-victory-prove-not-who-trump-says" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1216890689-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1216890689-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1216890689-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-1216890689-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/biden-debate-victory-prove-not-who-trump-says" class="Archive__PostTitle">Biden’s Path To Debate Victory Is Simple: Prove He’s Not Who Trump Says He Is        </a>
+    <div class="Archive__Subhead">
+      Trump has painted himself into a deep corner when it comes to the public’s expectations about Biden’s performance.    </div>
+    <div class="Archive__Byline">
+        By Jonathan Russo | July 3, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/cafe-return-native-son" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/baldwin-wright-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/baldwin-wright-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/baldwin-wright-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/baldwin-wright-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/cafe-return-native-son" class="Archive__PostTitle">The Return Of A Native Son        </a>
+    <div class="Archive__Subhead">
+      The full scope and dimensions of black voices matter, not just the ones performing blackness for white media.    </div>
+    <div class="Archive__Byline">
+        By Aurin Squire | July 2, 2020 3:44 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/covid-19-ranked-choice-voting-expansion-these-key-states" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-594745352-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-594745352-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-594745352-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/07/GettyImages-594745352-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/covid-19-ranked-choice-voting-expansion-these-key-states" class="Archive__PostTitle">COVID-19 Might Not Sideline Expansion Of Ranked Choice Voting Reform In These Key States        </a>
+    <div class="Archive__Subhead">
+      The most well-known benefit of RCV is ensuring that the winner of an election receives support from the majority of voters. This is critical in heavily contested elections.    </div>
+    <div class="Archive__Byline">
+        By Adam Eichen | July 1, 2020 3:27 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/cafe-collins-toughest-reelection-forced-answer-kavanaugh-vote" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1219096669-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1219096669-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1219096669-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1219096669-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/cafe-collins-toughest-reelection-forced-answer-kavanaugh-vote" class="Archive__PostTitle">Nail In Coffin? Facing Toughest Race Yet, Collins Forced To Answer For Kavanaugh Vote        </a>
+    <div class="Archive__Subhead">
+      Susan Collins’ purported centrist credentials have relied in part on her stance as an advocate of reproductive rights. That sort of positioning works well in Maine. But, with her vote for Kavanaugh, Collins lost endorsements that could prove detrimental to her reelection.    </div>
+    <div class="Archive__Byline">
+        By Amy Fried | June 30, 2020 3:26 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/cafe-dc-poll-worker-primaries-urgent-need-election-fixes-november" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1220292215-1-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1220292215-1-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1220292215-1-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1220292215-1-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/cafe-dc-poll-worker-primaries-urgent-need-election-fixes-november" class="Archive__PostTitle">November&#8217;s Election Could Strain Mechanics Of Democracy To The Breaking Point        </a>
+    <div class="Archive__Subhead">
+      During a pandemic, Election Day efficiency is all about poll workers: without enough poll workers, there won’t be enough polling places. Like almost every other city in the United States, it was clear that DC was going to lose a huge percentage of its poll workers in the primaries, because they skew older and are at higher risk for COVD-19. Those losses materialized as expected.    </div>
+    <div class="Archive__Byline">
+        By Adav Noti | June 30, 2020 11:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/woodrow-wilson-was-even-worse-than-you-think" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-635228857-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Woodrow Wilson, the 28th President of the United States, served two four-year terms from 1913-1921. Among his accomplishments was the establishment of the Federal Reserve banking system and the creation of the Federal Trade Commission. He declared war on Germany in 1917, during World War I, and attended the Versailles Peace Conference ending the war. He was awarded the Nobel Peace Prize in 1919 for his Fourteen Point peace plan and his work toward establishing the League of Nations.   (Photo by Oscar White/Corbis/VCG via Getty Images)" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-635228857-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-635228857-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-635228857-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/woodrow-wilson-was-even-worse-than-you-think" class="Archive__PostTitle">Woodrow Wilson Was Even Worse Than You Think        </a>
+    <div class="Archive__Subhead">
+      An incorrigible white supremacist, his racism was fundamental even to his “idealistic” plans for a peaceful post-WWI world order.    </div>
+    <div class="Archive__Byline">
+        By Colin Woodard | June 29, 2020 4:49 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/police-misconduct-change-police-culture-leadership-challenge" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1251212547-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1251212547-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1251212547-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1251212547-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/police-misconduct-change-police-culture-leadership-challenge" class="Archive__PostTitle">Addressing Misconduct Will Require A Change in Police Culture. Is Police Leadership Up To The Challenge?        </a>
+    <div class="Archive__Subhead">
+      Policing must evolve, and it can do so by developing a Guardian culture.    </div>
+    <div class="Archive__Byline">
+        By Karen Collins Rice and Seth Stoughton | June 26, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/cafe-cops-unions-no-place-labor-movement" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1251048607-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1251048607-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1251048607-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1251048607-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/cafe-cops-unions-no-place-labor-movement" class="Archive__PostTitle">Why Cops And Their &#8216;Unions&#8217; Have No Place In The Labor Movement        </a>
+    <div class="Archive__Subhead">
+      We face a glaring contradiction with the inclusion of police in the labor movement. The struggle against racist oppression is crucial to labor’s cause, but the professionals of repression are included in one labor body after another.    </div>
+    <div class="Archive__Byline">
+        By Becca Lewis | June 24, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/cafe-11-circuit-court-appeals-takes-florida-pay-vote-system" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1176983966-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1176983966-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1176983966-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1176983966-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/cafe-11-circuit-court-appeals-takes-florida-pay-vote-system" class="Archive__PostTitle">Will FL&#8217;s System Of Felon Pay-To-Vote Disenfranchisement End In Time For November?        </a>
+    <div class="Archive__Subhead">
+      The decision to expedite Florida ex-felon voting case is a good sign for those hoping to vote in 2020.    </div>
+    <div class="Archive__Byline">
+        By Ciara Torres-Spelliscy | June 23, 2020 10:00 a.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/news/cafe-gop-no-longer-governing-party" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1198956305-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1198956305-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1198956305-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1198956305-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/news/cafe-gop-no-longer-governing-party" class="Archive__PostTitle">How The GOP Gave Up On Governing In Order To Keep Winning Elections        </a>
+    <div class="Archive__Subhead">
+      The GOP's push to win elections at all costs opened the door to a new leader who would cement its status as a post-policy party.    </div>
+    <div class="Archive__Byline">
+        By Steve Benen | June 22, 2020 12:07 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/cafe-cost-save-democracy-4-billion-mcconnell-refusing-pay" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1220616476-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1220616476-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1220616476-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/06/GettyImages-1220616476-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/cafe-cost-save-democracy-4-billion-mcconnell-refusing-pay" class="Archive__PostTitle">The Cost To Save Our Democracy Is $4 Billion. McConnell Is Refusing To Pay It.        </a>
+    <div class="Archive__Subhead">
+      This chaos and voter suppression are entirely preventable. Secretaries of States and election officials should be doing everything in their power to expand mail-in voting, guarantee no-excuse absentee ballots, and expand early voting. And Congress should be providing them the resources to do so.    </div>
+    <div class="Archive__Byline">
+        By Sean Eldridge and Karen Hobert Flynn | June 18, 2020 5:42 p.m.    </div>
+      </div>
+</div><div class="Archive__Post cafe ">
+    <a href="https://talkingpointsmemo.com/cafe/the-us-has-become-the-worlds-top-exporter-of-white-extremism" class="Archive__PostImage">
+    <img width="300" height="300" src="https://cdn.talkingpointsmemo.com/wp-content/uploads/2018/06/GettyImages-830696388-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://cdn.talkingpointsmemo.com/wp-content/uploads/2018/06/GettyImages-830696388-150x150@2x.jpg 300w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2018/06/GettyImages-830696388-150x150.jpg 150w, https://cdn.talkingpointsmemo.com/wp-content/uploads/2018/06/GettyImages-830696388-300x300@2x.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+    <div> <!-- this container just makes the flex layout work -->
+        <a href="https://talkingpointsmemo.com/cafe/the-us-has-become-the-worlds-top-exporter-of-white-extremism" class="Archive__PostTitle">The US Has Become The World’s Top Exporter Of White Extremism        </a>
+    <div class="Archive__Subhead">
+      It’s time for the U.S. to confront this transnational movement.    </div>
+    <div class="Archive__Byline">
+        By Jason M. Blazakis | June 17, 2020 3:17 p.m.    </div>
+      </div>
+</div>          <div class="Archive__Pagination">
+            <span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://talkingpointsmemo.com/cafe/page/2'>2</a>
+<a class='page-numbers' href='https://talkingpointsmemo.com/cafe/page/3'>3</a>
+<a class='page-numbers' href='https://talkingpointsmemo.com/cafe/page/4'>4</a>
+<a class="next page-numbers" href="https://talkingpointsmemo.com/cafe/page/2">Next →</a>          </div>
+        </div>
+                <aside class="--span-4">
+          <script type=x-placeholder data-widget="StickyAdRail" data-props="{&quot;bounds&quot;:[0,600,1500,2400,3300],&quot;slots&quot;:[{&quot;eager&quot;:true,&quot;id&quot;:&quot;flex_1&quot;,&quot;sizes&quot;:[[300,1050],[300,250],[300,600]],&quot;unit&quot;:&quot;TPM_300xFlex_1&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]},{&quot;id&quot;:&quot;flex_2&quot;,&quot;sizes&quot;:[300,250],&quot;unit&quot;:&quot;TPM_300xFlex_2&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]},{&quot;id&quot;:&quot;flex_3&quot;,&quot;sizes&quot;:[300,250],&quot;unit&quot;:&quot;TPM_300xFlex_3&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]},{&quot;eager&quot;:true,&quot;id&quot;:&quot;flex_4&quot;,&quot;sizes&quot;:[300,250],&quot;unit&quot;:&quot;TPM_300xFlex_4&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]},{&quot;eager&quot;:true,&quot;id&quot;:&quot;flex_5&quot;,&quot;sizes&quot;:[300,250],&quot;unit&quot;:&quot;TPM_300xFlex_5&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]}],&quot;contentEl&quot;:&quot;.js_sticky-bounds&quot;,&quot;civicSciencePoll&quot;:true,&quot;isLiveBlog&quot;:false}" ></script>        </aside>
+              </div><!-- .row -->
+          </div><!-- .container -->
+  </div><!-- .Archive -->
+</div><!-- .Primary -->
+<div class="container">
+  <div class="row">
+    <div class="BannerAd --prefooter --span-12">
+      <script type=x-placeholder data-widget="AdSlot" data-props="{&quot;id&quot;:&quot;tpm_prefooter&quot;,&quot;sizes&quot;:[[728,90],[970,90],[0]],&quot;unit&quot;:&quot;TPM_preFooter&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]}" ></script>    </div>
+  </div>
+</div></div> <!-- close .site from header -->
+<div class="Masthead">
+  <div class="Masthead__Toggle js_masthead-toggle">
+    <span class="inactive"><span class="unhover">Masthead</span><i class="fas fa-caret-up hover"></i></span>
+    <span class="active"><span class="unhover">Masthead</span><i class="fas fa-caret-down hover"></i></span>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="--span-12">
+        <div class="Masthead__Contents">
+          <div class="Masthead__Slidecontainer js_masthead-slidecontainer">
+            <div class="row">
+              <div class="--span-3">
+                <div class="Masthead__Title">
+                  Founder &amp; Editor-in-Chief:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/josh-m">Josh Marshall</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Executive Editor:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/david-kurtz">David Kurtz</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Managing Editor:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/john-light">John Light</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Senior Editor:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/davidtaintor">David Taintor</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Special Projects Editor:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/nicole-lafond">Nicole Lafond</a>
+                  </li>
+                </ul>
+
+              </div>
+              <div class="--span-3">
+                <div class="Masthead__Title">
+                  Investigations Desk:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/tierney">Tierney Sneed</a>
+                  </li>
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/josh_kovensky">Josh Kovensky</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Reporters:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/matt-shuham">Matt Shuham</a>
+                  </li>
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/katherine-riga">Kate Riga</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Newswriters:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/cristina-cabrera">Cristina Cabrera</a>
+                  </li>
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/summer-concepcion">Summer Concepcion</a>
+                  </li>
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/zoe-richards">Zoë Richards</a>
+                  </li>
+                </ul>
+              </div>
+                          <div class="--span-3">
+                <div class="Masthead__Title">
+                  Editor at Large:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/johnjudis">John B. Judis</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  General Counsel:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/millet">Millet Israeli</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="--span-3">
+                <div class="Masthead__Title">
+                  Publisher:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/tpmjoe">Joe Ragazzo</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Head of Product:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/derick">Derick Dirmaier</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Director of Technology:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/woz">Matt Wozniak</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Associate Publisher:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/jackiewilhelm">Jackie Wilhelm</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Front-End Developer:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/jacobtpm">Jacob Harris</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Senior Designer:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/cfrapech">Christine Frapech</a>
+                  </li>
+                </ul>
+
+              </div>
+            </div><!-- .row -->
+          </div><!-- .Masthead__Slidecontainer.container -->
+        </div><!-- .Masthead__Contents -->
+      </div><!-- .Masthead span-12-->
+    </div><!-- .row -->
+  </div><!-- .container -->
+</div> <!-- .Masthead -->
+<footer id="footer" class="js_site-footer Footer">
+  <div class="container">
+    <div class="row">
+      <div class="--span-12">
+        <div class="Footer__Inner">
+          <div class="Footer__Left">
+            <div class="Footer__Follow">
+              <div class="Footer__FollowFlex">
+                <div class="Footer__FollowText">FOLLOW TPM</div>
+                <div class="Footer__Social">
+                  <a href="https://twitter.com/tpm" title="twitter" class="footer-social-twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                  <a href="https://facebook.com/talkingpointsmemo" title="facebook" class="footer-social-facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                  <a href="https://www.instagram.com/talkingpointsmemo/" title="instagram" class="footer-social-instagram"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                </div>
+              </div>
+              <a class="Footer__Tips" href="mailto:talk@talkingpointsmemo.com"><img src="https://cdn.talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/images/icons/TPMRedes_TipsIcon.svg" alt="Radio Tower Icon "> SEND COMMENTS AND NEWS TIPS</a>
+            </div>
+            <nav class="Footer__Nav">
+              <ul>
+                <li><a href="/about">about</a></li>
+                <li><a href="/contact">contact</a></li>
+                <li><a href="/careers">careers</a></li>
+                <li><a href="/faq">FAQ</a></li>
+                <li><a href="mailto:advertise@talkingpointsmemo.com">advertise</a></li>
+                <li><a href="/terms-of-use">terms of use</a></li>
+                <li><a href="/ccpa-notice">california consumer privacy act notice</a></li>
+                <li><a href="http://status.talkingpointsmemo.com" target="_blank">site status</a></li>
+                <li><a href="/memberships?utm_source=on_site&utm_medium=footer_button&utm_campaign=on_site_membership_links">MEMBERSHIP OPTIONS</a></li>
+                <li><a href="/contribute?utm_source=on_site&utm_medium=footer_button&utm_campaign=on_site_contribution_links">CONTRIBUTE</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="Footer__Right">
+            <div class="Footer__RightInner">
+              <div class="Footer__Since">
+               PUBLISHED SINCE 2000
+              </div>
+              <img class="Footer__Logo" src="https://cdn.talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/images/logo/TPMRedes_FullLogo_Wht.svg" alt="Talking Point Memo">
+              <div class="Footer__Copyright">
+                &copy; 2020 TPM MEDIA LLC. ALL RIGHTS RESERVED.&nbsp;<a href="/privacy">PRIVACY POLICY</a>
+              </div>
+            </div>
+          </div>
+        </div><!-- footer-inner -->
+      </div><!-- span-12 -->
+      <div class="Footer__ModalAds --span-12">
+        <script type=x-placeholder data-widget="AdSlot" data-props="{&quot;eager&quot;:true,&quot;noRefresh&quot;:true,&quot;id&quot;:&quot;modal&quot;,&quot;sizes&quot;:[1,1],&quot;unit&quot;:&quot;Modal_1x1&quot;,&quot;oop&quot;:true,&quot;targeting&quot;:[]}" ></script>      </div> <!-- .Footer__ModalAds -->
+    </div><!-- .row -->
+  </div><!-- .container -->
+</footer>
+
+  <!-- teads -->
+  <script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/1852/tag"></script>
+<script type="text/javascript">
+  // chartbeat
+  (function(){
+  var e,t;_sf_async_config.uid=986,_sf_async_config.domain="talkingpointsmemo.com";_sf_async_config.useCanonical=!0,e=function(){var e;return window._sf_endpt=(new Date).getTime(),e=document.createElement("script"),e.setAttribute("language","javascript"),e.setAttribute("type","text/javascript"),e.setAttribute("src",("https:"===document.location.protocol?"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/":"http://static.chartbeat.com/")+"js/chartbeat_pub.js"),document.body.appendChild(e)},t=window.onload,window.onload=typeof window.onload!="function"?e:function(){return t(),e()}
+  })();
+
+  var _cbq = window._cbq || [];
+  // _cbq.push(['_acct', '#{cb_user_type}']);
+  // _sf_async_config.zone="#{cb_zone}";
+
+
+</script>
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display:none"></div>
+<div id="parsely-cfg" data-parsely-site="talkingpointsmemo.com"></div>
+<script>
+  (function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+  e=d.getElementById(i), r=d.getElementById(p+"-root"),
+  u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+  :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p."+"js"; r.appendChild(e);
+  })("script", "parsely", document);
+</script>
+
+<!-- BEGIN Krux ControlTag for "PAA-TalkingPointsMemo" -->
+<script class="kxct" data-id="r3oivopn7" data-timing="async" data-version="3.0" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+  var k=document.createElement('script');k.type='text/javascript';k.async=true;
+  k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/r3oivopn7.js';
+  var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+</script>
+<!-- END Krux ControlTag -->
+
+
+
+<div style="background-color: #333333">
+<script type=x-placeholder data-widget="AdSlot" data-props="{&quot;eager&quot;:true,&quot;noRefresh&quot;:true,&quot;noHtlLayout&quot;:true,&quot;id&quot;:&quot;TPM_Out_Of_Page&quot;,&quot;sizes&quot;:[1,1],&quot;unit&quot;:&quot;TPM_Out_Of_Page&quot;,&quot;oop&quot;:true,&quot;targeting&quot;:[]}" ></script><script type=x-placeholder data-widget="AdSlot" data-props="{&quot;eager&quot;:true,&quot;noRefresh&quot;:true,&quot;noHtlLayout&quot;:true,&quot;id&quot;:&quot;next-millenium&quot;,&quot;sizes&quot;:[1,1],&quot;unit&quot;:&quot;NextMillenium_1x1&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]}" ></script><script type=x-placeholder data-widget="AdSlot" data-props="{&quot;noRefresh&quot;:true,&quot;noHtlLayout&quot;:true,&quot;id&quot;:&quot;undertone&quot;,&quot;sizes&quot;:[1,1],&quot;unit&quot;:&quot;Undertone_1x1&quot;,&quot;oop&quot;:false,&quot;targeting&quot;:[]}" ></script><div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div><style>
+  .tpmRejoin {
+    border-top: 1px solid #f2f2f2;
+    color: #ffffff;
+    background: #333333;
+    position: fixed;
+    z-index: 99999;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-family: 'roboto', sans-serif;
+    display: none;
+    text-align: center;
+  }
+  .tpmRejoin.active {
+    display: block;
+  }
+  @media (max-width: 576px) {
+    .tpmRejoin.active {
+      display: none!important;
+    }
+  }
+  .tpmRejoin__Inner {
+    width: 100%;
+    position: relative;
+    padding: 48px 0;
+    display: none;
+  }</div>
+<div>  .tpmRejoin__Inner.short {
+    padding: 24px 0;
+  }
+  .tpmRejoin__Inner.active {
+    display: block;
+  }
+  .tpmRejoin__Main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .tpmRejoin__Deal {
+    font-size: 19px;
+    color: #ffb100;
+  }
+  .tpmRejoin__Offer {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 24px 0;
+  }
+  .tpmRejoin__Price {
+    padding-bottom: 6px;
+    font-size: 19px;
+    color: #ffffff;
+    border-bottom: 3px solid #ffb100;
+    text-decoration: none;
+  }
+  .tpmRejoin__Toggle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 12px 24px;
+    cursor: pointer;
+    font-size: 2em;
+  }
+  .tpmRejoin__Toggle i {
+    pointer-events: none;
+    color: #fff;
+  }
+  @media (max-width: 576px) {
+    .tpmRejoin__Toggle {
+      padding: 0 8px;
+    }
+  }
+</style>
+<div class="tpmRejoin">
+  <div class="tpmRejoin__Inner tall active">
+    <div class="tpmRejoin__Toggle">
+      <i class="fal fa-chevron-down"></i>
+    </div>
+    <div class="tpmRejoin__Main">
+      <div class="tpmRejoin__Deal">SPECIAL DEAL FOR PAST TPM MEMBERS</div>
+      <div class="tpmRejoin__Offer">40% OFF AN ANNUAL PRIME MEMBERSHIP</div>
+      <a
+        href="https://talkingpointsmemo.com/memberships/prime-annual?promo=20LP40&utm_source=on_site&utm_medium=come_back_modal&utm_campaign=on_site_membership_links"
+        class="tpmRejoin__Price"
+        >REJOIN FOR JUST $30</a
+      >
+    </div>
+  </div>
+  <div class="tpmRejoin__Inner short">
+    <div class="tpmRejoin__Toggle">
+      <i class="fal fa-chevron-up"></i>
+    </div>
+    <div class="tpmRejoin__Main">
+      <a
+        href="https://talkingpointsmemo.com/memberships/prime-annual?promo=20LP40&utm_source=on_site&utm_medium=come_back_modal&utm_campaign=on_site_membership_links"
+        class="tpmRejoin__Price"
+        >REJOIN FOR JUST $30</a
+      >
+    </div>
+  </div>
+</div>
+<script>
+  jQuery(document).ready(function() {
+    if (window.is_basic) {
+      $.ajax({
+        method: 'GET',
+        url: document.location.protocol + "//" + document.location.host + "/resty/ident",
+        xhrFields: { withCredentials: true },
+      }).then(function(response) {
+        if (response.membership_was) {
+          $('.tpmRejoin').addClass('active')
+          $('.tpmRejoin__Toggle').on('click', function() {
+            $('.tpmRejoin__Inner').toggleClass('active')
+          })
+        }
+      })
+    }
+  })
+</script></div>
+</div></div></div>
+<script type="text/javascript" defer src="//cdn.talkingpointsmemo.com/wp-content/cache/autoptimize/js/autoptimize_38c1a611598ea6cd4446b54944160ddd.js"></script></body>
+</html>
